@@ -1,0 +1,7 @@
+User: Sabitha
+Balance: 8560.75
+Holdings: {AAPL=10, TSLA=5}
+
+User: Mathan
+Balance: 7200.00
+Holdings: {GOOG=2}
