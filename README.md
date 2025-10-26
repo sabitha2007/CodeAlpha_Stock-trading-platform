@@ -1,6 +1,6 @@
-# 💹 Stock Trading Platform (Java Console App)
+# Stock Trading Platform (Java Console App)
 
-## 🚀 Features
+## Features
 ✅ Simulated real-time market price updates  
 ✅ Buy/Sell operations  
 ✅ Track portfolio performance  
